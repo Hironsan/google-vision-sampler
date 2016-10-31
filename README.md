@@ -23,6 +23,23 @@ Set Google Vision API Token to environment variables.
 $ export VISION_API=xxxxx
 ```
 
+
+### Face Detection
+![face](https://github.com/Hironsan/google-vision-sampler/blob/master/images/face.jpg)
+
+### Label Detection
+![label](https://github.com/Hironsan/google-vision-sampler/blob/master/images/label.jpg)
+
+### Landmark Detection
+![landmark](https://github.com/Hironsan/google-vision-sampler/blob/master/images/landmark.jpg)
+
+### Logo Detection
+![logo](https://github.com/Hironsan/google-vision-sampler/blob/master/images/logo.jpg)
+
+### Text Detection
+![text](https://github.com/Hironsan/google-vision-sampler/blob/master/images/text.png)
+
+
 ## Install
 
 ```
