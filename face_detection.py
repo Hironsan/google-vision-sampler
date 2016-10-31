@@ -38,7 +38,7 @@ def main(photo_file):
             }]
         }
         response = service.execute(body=body)
-        faces = response['responses'][0]['faceAnnotations'][0]['description']
+        faces = response['responses'][0]['faceAnnotations']
         print('Found faces: {}'.format(faces))
 
 if __name__ == '__main__':
