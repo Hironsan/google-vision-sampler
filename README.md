@@ -25,19 +25,19 @@ $ export VISION_API=xxxxx
 
 
 ### Face Detection
-![face](https://github.com/Hironsan/google-vision-sampler/blob/master/images/face.jpg)
+<img src="https://github.com/Hironsan/google-vision-sampler/blob/master/images/face.jpg" width="320px">
 
 ### Label Detection
-![label](https://github.com/Hironsan/google-vision-sampler/blob/master/images/label.jpg)
+<img src="https://github.com/Hironsan/google-vision-sampler/blob/master/images/label.jpg" width="320px">
 
 ### Landmark Detection
-![landmark](https://github.com/Hironsan/google-vision-sampler/blob/master/images/landmark.jpg)
+<img src="https://github.com/Hironsan/google-vision-sampler/blob/master/images/landmark.jpg" width="320px">
 
 ### Logo Detection
-![logo](https://github.com/Hironsan/google-vision-sampler/blob/master/images/logo.jpg)
+<img src="https://github.com/Hironsan/google-vision-sampler/blob/master/images/logo.jpg" width="320px">
 
 ### Text Detection
-![text](https://github.com/Hironsan/google-vision-sampler/blob/master/images/text.png)
+<img src="https://github.com/Hironsan/google-vision-sampler/blob/master/images/text.png" width="320px">
 
 
 ## Install
