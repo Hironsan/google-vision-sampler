@@ -26,6 +26,7 @@ $ export VISION_API=xxxxx
 
 ### Face Detection
 Face Detection demo using FACE_DETECTION feature.
+
 <img src="https://github.com/Hironsan/google-vision-sampler/blob/master/images/face.jpg" width="320px">
 
 ```
@@ -34,6 +35,7 @@ $ python face_detection.py images/face.jpg
 
 ### Label Detection
 Label Detection demo using LABEL_DETECTION feature.
+
 <img src="https://github.com/Hironsan/google-vision-sampler/blob/master/images/label.jpg" width="320px">
 
 ```
@@ -43,6 +45,7 @@ Found label: laptop
 
 ### Landmark Detection
 Landmark Detection demo using LANDMARK_DETECTION feature.
+
 <img src="https://github.com/Hironsan/google-vision-sampler/blob/master/images/landmark.jpg" width="320px">
 
 ```
@@ -52,6 +55,7 @@ Found landmark: Statue of Liberty
 
 ### Logo Detection
 Logo Detection demo using LOGO_DETECTION feature.
+
 <img src="https://github.com/Hironsan/google-vision-sampler/blob/master/images/logo.jpg" width="320px">
 
 ```
@@ -61,6 +65,7 @@ Found logo: Starbucks
 
 ### Text Detection
 Text Detection demo using TEXT_DETECTION feature.
+
 <img src="https://github.com/Hironsan/google-vision-sampler/blob/master/images/text.png" width="320px">
 
 ```
