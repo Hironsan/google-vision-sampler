@@ -56,8 +56,15 @@ Label Detection demo using LABEL_DETECTION feature.
 ![Label Detection](images/label.jpg)
 
 ```bash
-$ python label_detection.py images/label.jpg
-Found label: laptop
+$ python examples/label_detection.py images/label.jpg
+Labels:
+laptop
+electronic device
+technology
+netbook
+computer keyboard
+personal computer
+gadget
 ```
 
 ### Landmark Detection
