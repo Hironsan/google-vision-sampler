@@ -46,7 +46,9 @@ Face Detection demo using FACE_DETECTION feature.
 ![Face Detection](images/face.jpg)
 
 ```bash
-$ python face_detection.py images/face.jpg
+$ python examples/face_detection.py images/face.jpg
+Joy Likelihood: 1
+Joy Likelihood: 5
 ```
 
 ### Label Detection
@@ -85,7 +87,7 @@ Logo Detection demo using LOGO_DETECTION feature.
 ![Logo Detection](images/logo.jpg)
 
 ```bash
-$ python logo_detection.py images/logo.jpg
+$ python examples/logo_detection.py images/logo.jpg
 Found logo: Starbucks
 ```
 
