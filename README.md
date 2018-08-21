@@ -1,7 +1,9 @@
 # google-vision-sampler
+
 Code examples for Google Vision API written in Python.
 
 ## Description
+
 Example codes has following features:
 
 * Face Detection
@@ -9,7 +11,6 @@ Example codes has following features:
 * Logo Detection
 * Label Detection
 * Text Detection
-* Safe Search Detection
 
 ## Requirement
 
@@ -76,7 +77,7 @@ Landmark Detection demo using LANDMARK_DETECTION feature.
 ![Landmark Detection](images/landmark.jpg)
 
 ```bash
-$ python landmark_detection.py images/landmark.jpg
+$ python examples/landmark_detection.py images/landmark.jpg
 Found landmark: Statue of Liberty
 ```
 
@@ -98,20 +99,24 @@ Text Detection demo using TEXT_DETECTION feature.
 ![Text Detection](images/text.png)
 
 ```bash
-$ python text_detection.py images/text.png
-Found text: The Daily News
-The martians have come at Lorem Ipsum is simply Lorem Ipsum is simply dummy
-text of the printing and of the printing and typesetting
-the industry's standard has been industry. has been
-text since dummy the industry's standard dummy
-1500s, when text since 1500s, when
-a an unknown printer took a galley an unknown printer took a galley
-of type and scrambled it to make of and scrambled it to make
-type specimen book. It has
+$ python examples/text_detection.py images/text.png
+The Daily News
+The martians have come at last
+Lorem Ipsum is simply dummy Lorem Ipsum is simply dummy
+text of the printing and typesettingext of the printing and typesetting
+industry. Lorem Ipsum has been industry. Lorem Ipsum has been
+the industry's standard dummy the industry's standard dummy
+text ever since the 1500s, when text ever since the 1500s, whern
+an unknown printer took a galley an unknown printer took a galley
+of type and scrambled it to make of type and scrambled it to make
+a type specimen book. It has a type specimen book. It has
+survived not only five centuries survived not only five centuries
+, but also the leap into electronic , but also the leap into electronic
 ...
 ```
 
 ## Image Sizing
+
 To enable accurate image detection within the Google Cloud Vision API, images should generally be a minimum of 640 x 480 pixels (about 300k pixels). Full details for different types of Vision API Feature requests are shown below:
 
 | Vision API Feature | Recommended Size | Notes |
