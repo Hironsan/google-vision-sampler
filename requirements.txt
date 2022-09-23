@@ -7,7 +7,7 @@ google-cloud-vision==0.33.0
 googleapis-common-protos==1.5.3
 grpcio==1.14.1
 idna==2.7
-protobuf==3.6.1
+protobuf==3.18.3
 pyasn1==0.4.4
 pyasn1-modules==0.2.2
 pytz==2018.5
